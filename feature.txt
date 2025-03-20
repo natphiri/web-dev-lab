@@ -1,0 +1,1 @@
+In this lab, I learned how to create and structure a simple webpage using HTML.
